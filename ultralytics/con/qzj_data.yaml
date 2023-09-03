@@ -1,0 +1,8 @@
+# /Users/lei/Desktop/qzj/dataset
+
+train: /Users/lei/Desktop/qzj/dataset/train/images
+val: /Users/lei/Desktop/qzj/dataset/valid/images
+test: /Users/lei/Desktop/qzj/dataset/test/images
+
+nc: 2
+names: ['box', 'cola']
